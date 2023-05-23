@@ -80,6 +80,12 @@ const linksList = [
     icon: 'school',
     to: '/form-handling',
   },
+  {
+    title: 'Quasar Language Pack',
+    caption: 'quasar.dev',
+    icon: 'school',
+    to: '/quasar-language-packs',
+  },
 ];
 
 const leftDrawerOpen = ref(false);

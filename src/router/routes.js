@@ -30,6 +30,10 @@ const routes = [
         path: '/form-handling',
         component: () => import('pages/FormHandling.vue'),
       },
+      {
+        path: '/quasar-language-packs',
+        component: () => import('pages/QuasarLanguagePack.vue'),
+      },
     ],
   },
   {
